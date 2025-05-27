@@ -118,7 +118,7 @@ The Power BI dashboard is designed to deliver insight through simple, interactiv
 
 ---
 
-### 6. 💵 Top & Low Price Points
+### 6. Top & Low Price Points
 
 - **Highest unit price recorded**: ₦1,995.96 (Cooking Gas, **April 2024**)  
 - **Lowest unit price recorded**: ₦106.74 (Transport item, **January 2024**)
